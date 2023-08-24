@@ -1,0 +1,10 @@
+.block {
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #d3efef;
+    position: absolute;
+    padding: 45px;
+    margin-top: 3%;
+    display: inline-block;
+}
+
